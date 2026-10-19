@@ -1,0 +1,8 @@
+{
+  "name": "Wishora",
+  "description": "Make Every Birthday Special with interactive 3D gift reveals, personalized cake with blow-out candles, AI wishes & music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
